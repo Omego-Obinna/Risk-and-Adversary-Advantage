@@ -99,4 +99,4 @@ For inquiries, please contact:
 Dr Obinna Omego  
 a.omego@kingston.ac.uk, omegoobinna@gmail.com
 
-We hope these simulations assist in exploring various strategic scenarios and enhance the reproducibility of your research!
+I hope these simulations assist in exploring various strategic scenarios and enhance the reproducibility of your research!
