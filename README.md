@@ -15,8 +15,8 @@ These Monte Carlo simulations generate results that can be visualized in 3D scat
 **What the Code Does:**
 - Implements Monte Carlo simulations by sampling key parameters from specified probability distributions.
 - Calculates the adversary’s advantage and risk based on sampled parameters.
-- Produces 3D visualizations of the relationships between the probability of attacking (\( p^* \)), the probability of hiding (\( q^* \)), and the resulting risk.
-- Outputs statistical summaries (mean, min, max) of \(\mathsf{Adv}\) and \(R\).
+- Produces 3D visualizations of the relationships between the probability of attacking $( p^* )$, the probability of hiding $( q^* )$, and the resulting risk.
+- Outputs statistical summaries (mean, min, max) of $(\mathsf{Adv})$ and $(R)$.
 
 **Scenarios:**
 1. **Positive Advantage:** 
@@ -32,10 +32,10 @@ These Monte Carlo simulations generate results that can be visualized in 3D scat
 ## Features 🌟
 
 - **Parameter Sampling:** Randomly sample from uniform and Beta distributions.
-- **Probability Constraints:** Ensure \( p^* \) and \( q^* \) remain within [0,1].
+- **Probability Constraints:** Ensure $( p^* )$ and $( q^* )$ remain within [0,1].
 - **Dynamic Impact Factors:** Compute risk using flexible cost-benefit parameters.
 - **Visual Outputs:** Interactive 3D plots and histograms for deeper analysis.
-- **Statistical Summaries:** Mean, minimum, and maximum values for both \(\mathsf{Adv}\) and \(R\).
+- **Statistical Summaries:** Mean, minimum, and maximum values for both $(\mathsf{Adv})$ and $(R)$.
 
 ---
 
@@ -77,16 +77,15 @@ These Monte Carlo simulations generate results that can be visualized in 3D scat
 
 ## Outputs and Visualization 🖼️
 
-- **3D Scatter Plots:** Display relationships between \( p^* \), \( q^* \), and \( R \) color-coded by \(\mathsf{Adv}\).
-- **Histograms:** Present distributions of \(\mathsf{Adv}\) values, revealing underlying patterns in adversary-user dynamics.
-- **Statistics:** Summaries for mean, min, and max values of \(\mathsf{Adv}\) and \(R\) printed directly to the command window.
+- **3D Scatter Plots:** Display relationships between  $p^* $,  $q^*$, and  $R$ color-coded by $\mathsf{Adv}$.
+- **Histograms:** Present distributions of $\mathsf{Adv}$ values, revealing underlying patterns in adversary-user dynamics.
+- **Statistics:** Summaries for mean, min, and max values of $\mathsf{Adv}$ and $R$ printed directly to the command window.
 
 ---
 
 ## Citation and References 📜
 If you use these codes in your research, please cite the associated research paper:
-> [Your Research Paper Title]  
-> [Your Authors, Journal/Conference, Year]
+> Steganography and Probabilistic Risk Analysis: A Game Theoretical Framework for Quantifying Adversary Advantage and Impact  
 
 ---
 
@@ -97,7 +96,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact 💬
 For inquiries, please contact:  
-[Your Name]  
-[Your Email]
+Dr Obinna Omego  
+a.omego@kingston.ac.uk, omegoobinna@gmail.com
 
 We hope these simulations assist in exploring various strategic scenarios and enhance the reproducibility of your research!
